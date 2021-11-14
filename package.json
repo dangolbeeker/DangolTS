@@ -1,0 +1,21 @@
+{
+  "name": "dangolts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "./index.js",
+  "description": "A nodejs script to automatically refactor a Javascript Project to Typescript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangolbeeker/DangolTS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangolbeeker/DangolTS/issues"
+  },
+  "homepage": "https://github.com/dangolbeeker/DangolTS#readme"
+}
