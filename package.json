@@ -1,8 +1,10 @@
 {
   "name": "dangolts",
   "version": "1.0.0",
-  "main": "index.js",
-  "bin": "./index.js",
+  "main": "cli.js",
+  "bin": { 
+    "dangolts": "./bin/dangolts"
+  },
   "description": "A nodejs script to automatically refactor a Javascript Project to Typescript",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
